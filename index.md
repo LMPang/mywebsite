@@ -33,3 +33,31 @@ My research interests include **Evolutionary Multi-Objective Optimization**, **E
 - W. L. Chang, **L. M. Pang**, K. M. Tay, “Application of self-organizing map to failure modes and effects analysis methodology,” *Neurocomputing*, vol. 249, pp. 314-320, 2017.<br>
 - **L. M. Pang**, K. M. Tay, C. P. Lim, “Monotone fuzzy rule relabeling for the zero-order TSK fuzzy inference system,” *IEEE Transactions on Fuzzy Systems*, vol. 24, no. 6, pp. 1455-1463, 2016.<br>
 
+## Conference Publications 
+- L. Chen, **L. M. Pang**, H. Ishibuchi, "New solution creation operator in MOEA/D for faster convergence", *International Conference on Parallel Problem Solving from Nature (PPSN 2022)*, 2022, pp. 234-246. <br>
+- H. Ishibuchi, Y. Peng, **L. M. Pang**, "Multi-modal multi-objective test problems with an infinite number of equivalent Pareto sets," *2022 IEEE Congress on Evolutionary Computation (CEC)*, 2022, pp. 1-8. <br>
+- G. Chen, **L. M. Pang**, H. Ishibuchi, “Initial population generation method and its effects on MOEA/D,” *2021 IEEE Symposium Series on Computational Intelligence (SSCI)*, 2021, pp. 1-8. <br>
+- L. Chen, **L. M. Pang**, H. Ishibuchi, K. Shang, “Periodical weight vector update using an unbounded external archive for decomposition-based evolutionary multi-objective optimization,” *2021 IEEE Symposium Series on Computational Intelligence (SSCI)*, 2021, pp. 1-8.<br>
+- K. Shang, H. Ishibuchi, **L. M. Pang**, Y. Nan, “Reference point specification for greedy hypervolume subset selection,” *2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2021, pp. 168-175. <br>
+- **L. M. Pang**, K. Shang, L. Chen, H. Ishibuchi, W. Chen, “Proposal of a new test problem for large-scale multi-and many-objective optimization,” *2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2021, pp. 484-491. <br>
+- **L. M. Pang**, H. Ishibuchi, K. Shang, “Using a genetic algorithm-based hyper-heuristic to tune MOEA/D for a set of various test problems,” *2021 IEEE Congress on Evolutionary Computation (CEC)*, 2021, pp. 1486-1494. <br>
+- L. Chen, **L. M. Pang**, H. Ishibuchi, K. Shang, “Periodical generation update using an unbounded external archive for multi-objective optimization,” *2021 IEEE Congress on Evolutionary Computation (CEC)*, 2021, pp. 1912-1920. <br>
+- J. Zhang, H. Ishibuchi, K. Shang, L. He, **L. M. Pang**, Y. Peng, “Environmental selection using a fuzzy classifier for multiobjective evolutionary algorithms,”  in *Proceedings of the Genetic and Evolutionary Computation Conference*, 2021, pp. 485-492. <br>
+- K. Shang, H. Ishibuchi, L. Chen, W. Chen, **L. M. Pang**, “Improving the efficiency of R2HCA-EMOA,” *International Conference on Evolutionary Multi-Criterion Optimization*, 2021, pp. 115-125.<br>
+- **L. M. Pang**, H. Ishibuchi, K. Shang, “Using a genetic algorithm-based hyper-heuristic to tune MOEA/D for a set of benchmark test problems,” *International Conference on Evolutionary Multi-Criterion Optimization*, 2021, pp. 164-177. <br>
+- H. Ishibuchi, **L. M. Pang**, K. Shang, “Population size specification for fair comparison of multi-objective evolutionary algorithms,” *2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2020, pp. 1095-1102. <br>
+- H. Ishibuchi, **L. M. Pang**, K. Shang, “Numerical analysis on optimal distributions of solutions for hypervolume maximization,” *2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2020, pp. 1103-1110. <br>
+- W. Liao, H. Ishibuchi, **L. M. Pang**, K. Shang, “Parallel implementation of MOEA/D with parallel weight vectors for feature selection,” *2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2020, pp. 1524-1531. <br>
+- **L. M. Pang**, H. Ishibuchi, K. Shang, “Algorithm configurations of MOEA/D with an unbounded external archive,” *2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2020, pp. 1087-1094. <br>
+- H. Ishibuchi, **L. M. Pang**, K. Shang, “A new framework of evolutionary multi-objective algorithms with an unbounded external archive,” *ECAI 2020*, pp. 283-290. <br>
+- **L. M. Pang**, H. Ishibuchi, K. Shang, “Offline automatic parameter tuning of MOEA/D using genetic algorithm,” *2019 IEEE Symposium Series on Computational Intelligence (SSCI)*, 2019, pp. 1889-1897. <br>
+- W. Liao, K. Shang, **L. M. Pang**, H. Ishibuchi, “Weak convergence detection-based dynamic reference point specification in SMS-EMOA,” *2019 IEEE Symposium Series on Computational Intelligence (SSCI)*, 2019, pp. 1841-1848. <br>
+- Y. W. Kerk, **L. M. Pang**, K. M. Tay, C. P. Lim, “Multi-expert decision-making with incomplete and noisy fuzzy rules and the monotone test,” *2016 IEEE international conference on fuzzy systems (FUZZ-IEEE)*, 2016, pp. 94-101.<br>
+- **L. M. Pang**, K. M. Tay, C. P. Lim, “A new monotonicity index for fuzzy rule-based systems,” *2014 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)*, 2014, pp. 1566-1570. <br>
+- K. M. Tay, T. L. Jee, **L. M. Pang**, C. P. Lim, “A new online updating framework for constructing monotonicity-preserving Fuzzy Inference Systems,” *2013 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)*, 2013, pp. 1-7. <br>
+- K. M. Tay, **L. M. Pang**, T. L. Jee, C. P. Lim, “A new framework with similarity reasoning and monotone fuzzy rule relabeling for fuzzy inference systems,” *2013 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)*, 2013, pp. 1-8.<br>
+
+## Arxiv Preprints
+
+- H. Ishibuchi, **L. M. Pang**, K. Shang, “Evolutionary multi-objective optimization algorithm framework with three solution sets,” 2020. <br> 
+- H. Ishibuchi, **L. M. Pang**, K. Shang, “Solution subset selection for final decision making in evolutionary multi-objective optimization,” 2020.<br>
