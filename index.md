@@ -20,7 +20,7 @@ My research interests include **Evolutionary Multi-Objective Optimization**, **E
 - **[June 2023]** Our paper "Hypervolume-based cooperative coevolution with two reference points for multi-objective optimization" has been accepted by [IEEE TEVC](https://ieeexplore.ieee.org/abstract/document/10155313)
 
 ## Journal Publications 
-- **L. M. Pang**, H. Ishibuchi, L. He, K. Shang, L. Chen, “Hypervolume-based cooperative coevolution with two reference points for multi-objective optimization,” *IEEE Transactions on Evolutionary Computation*, 2023 (Early Access). <br>
+- **L. M. Pang**, H. Ishibuchi, L. He, K. Shang, L. Chen, “Hypervolume-based cooperative coevolution with two reference points for multi-objective optimization,” *IEEE Transactions on Evolutionary Computation*, Early Access. <br>
 - K. Shang, T. Shu, H. Ishibuchi, Y. Nan, **L. M. Pang**, “Benchmarking subset selection from large candidate solution sets in evolutionary multi-objective optimization,” *Information Sciences*, vol. 622, pp.755-770, 2022. <br>
 - **L. M. Pang**, H. Ishibuchi, K. Shang, “Use of two penalty values in multiobjective evolutionary algorithm based on decomposition,” *IEEE Transactions on Cybernetics*, Early Access.<br>
 - **L. M. Pang**, H. Ishibuchi, K. Shang, “Counterintuitive experimental results in evolutionary large-scale multi-objective optimization,” *IEEE Transactions on Evolutionary Computation*, Early Access.<br>
