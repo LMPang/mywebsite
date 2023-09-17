@@ -16,6 +16,6 @@ My research interests include **Evolutionary Multi-Objective Optimization**, **E
 
 ## News
 
-- **[June 2023]** Our paper "Hypervolume-based cooperative coevolution with two reference points for multi-objective optimization" has been accepted by [IEEE TEVC] (https://ieeexplore.ieee.org/abstract/document/10155313)
+- **[June 2023]** Our paper "Hypervolume-based cooperative coevolution with two reference points for multi-objective optimization" has been accepted by [IEEE TEVC](https://ieeexplore.ieee.org/abstract/document/10155313)
 
 
