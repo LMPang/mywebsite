@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## IJCNN 2024, FUZZ-IEEE 2024 and CEC 2024 will be held under WCCI 2024 in Yokohama, Japan (June 30 - July 5).
+## Call for Papers: IJCNN 2024, FUZZ-IEEE 2024 and CEC 2024 will be held under WCCI 2024 in Yokohama, Japan (June 30 - July 5).
 The paper submission deadline is January 15, 2024.
 For more information, see the webpage https://wcci2024.org/
 
