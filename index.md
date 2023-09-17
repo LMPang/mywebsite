@@ -10,7 +10,7 @@ My research interests include **Evolutionary Multi-Objective Optimization**, **E
 
 ## Experiences 
 2008 - 2012 &nbsp;&nbsp; Universiti Malaysia Sarawak, Bachelor’s degree (with honors) in Electronics  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Telecommunication Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Telecommunication Engineering  
 2012 - 2018 &nbsp;&nbsp; Universiti Malaysia Sarawak, Ph.D. in Electronic Engineering  
 2018 - 2020 &nbsp;&nbsp;  Southern University of Science and Technology, Postdoctoral Fellowship  
 2020 - Now  &nbsp;&nbsp;  Southern University of Science and Technology, Research Associate  
