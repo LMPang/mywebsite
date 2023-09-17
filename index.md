@@ -21,9 +21,9 @@ My research interests include **Evolutionary Multi-Objective Optimization**, **E
 
 ## Journal Publications 
 - **L. M. Pang**, H. Ishibuchi, L. He, K. Shang, L. Chen, “Hypervolume-based cooperative coevolution with two reference points for multi-objective optimization,” *IEEE Transactions on Evolutionary Computation*, Early Access. <br>
-- K. Shang, T. Shu, H. Ishibuchi, Y. Nan, **L. M. Pang**, “Benchmarking subset selection from large candidate solution sets in evolutionary multi-objective optimization,” *Information Sciences*, vol. 622, pp.755-770, 2022. <br>
 - **L. M. Pang**, H. Ishibuchi, K. Shang, “Use of two penalty values in multiobjective evolutionary algorithm based on decomposition,” *IEEE Transactions on Cybernetics*, Early Access.<br>
-- **L. M. Pang**, H. Ishibuchi, K. Shang, “Counterintuitive experimental results in evolutionary large-scale multi-objective optimization,” *IEEE Transactions on Evolutionary Computation*, Early Access.<br>
+- K. Shang, T. Shu, H. Ishibuchi, Y. Nan, **L. M. Pang**, “Benchmarking subset selection from large candidate solution sets in evolutionary multi-objective optimization,” *Information Sciences*, vol. 622, pp.755-770, 2022. <br>
+- **L. M. Pang**, H. Ishibuchi, K. Shang, “Counterintuitive experimental results in evolutionary large-scale multi-objective optimization,” *IEEE Transactions on Evolutionary Computation*, vol. 26, no. 6, pp. 1609-1616, 2022.<br>
 - H. Ishibuchi, **L. M. Pang**, K. Shang, “Difficulties in fair performance comparison of multi-objective evolutionary algorithms [research frontier],” *IEEE Computational Intelligence Magazine*, vol. 17, no.1, pp. 86-101, 2022.<br>
 - K. Shang, H. Ishibuchi, L. He, **L. M. Pang**, “A survey on the hypervolume indicator in evolutionary multiobjective optimization,” *IEEE Transactions on Evolutionary Computation*, vol. 25, no. 1, pp. 1-20, 2021.<br>
 - T. Zhang, Z. Deng, H. Ishibuchi, **L. M. Pang**, “Robust TSK fuzzy system based on semisupervised learning for label noise data,” *IEEE Transactions on Fuzzy Systems*, vol. 29 no. 8, pp. 2145-2157, 2021.<br>
