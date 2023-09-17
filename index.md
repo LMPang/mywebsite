@@ -34,6 +34,12 @@ My research interests include **Evolutionary Multi-Objective Optimization**, **E
 - **L. M. Pang**, K. M. Tay, C. P. Lim, “Monotone fuzzy rule relabeling for the zero-order TSK fuzzy inference system,” *IEEE Transactions on Fuzzy Systems*, vol. 24, no. 6, pp. 1455-1463, 2016.<br>
 
 ## Conference Publications 
+- **L. M. Pang**, Y. Nan, H. Ishibuchi, “How to find a large solution set to cover the entire Pareto front in evolutionary multi-objective optimization,” *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Hawaii, USA, 2023 (Accepted).  
+- C. Gong, **L. M. Pang**, Y. Nan, H. Ishibuchi, Qingfu Zhang, “Effects of initialization methods on the performance of multi-objective evolutionary algorithms,” *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Hawaii, USA, 2023 (Accepted). 
+- H. Ishibuchi, **L. M. Pang**, K. Shang, “Effects of dominance modification on hypervolume-based and IGD-based performance evaluation results of NSGA-II,” in *Proceedings of the Genetic and Evolutionary Computation Conference*, Lisbon, Portugal, 2023, pp. 679-687. 
+- C. Gong, Y. Nan, **L. M. Pang**, Q. Zhang, H. Ishibuchi, “Effects of Including Optimal Solutions into Initial Population on Evolutionary Multiobjective Optimization,” in *Proceedings of the Genetic and Evolutionary Computation Conference*, Lisbon, Portugal, 2023, pp. 661-669. 
+- **L. M. Pang**, Y. Nan, H. Ishibuchi, “Partially degenerate multi-objective test problems,” *12th International Conference on Evolutionary Multi-Criterion Optimization*, Leiden, The Netherlands, 2023, pp. 277-290. 
+- H. Ishibuchi, Y. Nan, **L. M. Pang**, “Performance evaluation of multi-objective evolutionary algorithms using artificial and real-world problems,” *12th International Conference on Evolutionary Multi-Criterion Optimization*, Leiden, The Netherlands, 2023, pp. 333-347. 
 - L. Chen, **L. M. Pang**, H. Ishibuchi, "New solution creation operator in MOEA/D for faster convergence", *International Conference on Parallel Problem Solving from Nature (PPSN 2022)*, 2022, pp. 234-246. <br>
 - H. Ishibuchi, Y. Peng, **L. M. Pang**, "Multi-modal multi-objective test problems with an infinite number of equivalent Pareto sets," *2022 IEEE Congress on Evolutionary Computation (CEC)*, 2022, pp. 1-8. <br>
 - G. Chen, **L. M. Pang**, H. Ishibuchi, “Initial population generation method and its effects on MOEA/D,” *2021 IEEE Symposium Series on Computational Intelligence (SSCI)*, 2021, pp. 1-8. <br>
