@@ -9,10 +9,10 @@ I am a Research Associate in Prof. Hisao Ishibuchi's group at the Department of 
 My research interests include Evolutionary Multi-Objective Optimization, Evolutionary Computation, Hyper-Heuristics, and Fuzzy Systems. 
 
 ## Experiences 
-2008 - 2012 Universiti Malaysia Sarawak, Bachelor’s degree (with honors) in Electronics and Telecommunication Engineering <br /> 
-2012 - 2018 Universiti Malaysia Sarawak, Ph.D. in Electronic Engineering <br /> 
-2018 - 2020 Southern University of Science and Technology, Postdoctoral Fellowship <br /> 
-2020 - Now  Southern University of Science and Technology, Research Associate <br /> 
+2008 - 2012 Universiti Malaysia Sarawak, Bachelor’s degree (with honors) in Electronics and Telecommunication Engineering  
+2012 - 2018 Universiti Malaysia Sarawak, Ph.D. in Electronic Engineering  
+2018 - 2020 Southern University of Science and Technology, Postdoctoral Fellowship  
+2020 - Now  Southern University of Science and Technology, Research Associate  
 
 ## News
 
