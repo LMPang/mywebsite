@@ -6,7 +6,7 @@ layout: homepage
 
 ## About Me
 I am a Research Associate in Prof. Hisao Ishibuchi's group at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech).
-My research interests include Evolutionary Multi-Objective Optimization, Evolutionary Computation, Hyper-Heuristics, and Fuzzy Systems. 
+My research interests include **Evolutionary Multi-Objective Optimization**, **Evolutionary Computation**, **Hyper-Heuristics**, and **Fuzzy Systems**. 
 
 ## Experiences 
 2008 - 2012 &nbsp;&nbsp; Universiti Malaysia Sarawak, Bachelor’s degree (with honors) in Electronics and Telecommunication Engineering  
