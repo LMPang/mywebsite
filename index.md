@@ -34,7 +34,7 @@ My research interests include **Evolutionary Multi-Objective Optimization**, **E
 
 ## Conference Publications 
 - **L. M. Pang**, Y. Nan, H. Ishibuchi, “How to find a large solution set to cover the entire Pareto front in evolutionary multi-objective optimization,” *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Hawaii, USA, 2023 (Accepted).  
-- C. Gong, **L. M. Pang**, Y. Nan, H. Ishibuchi, Qingfu Zhang, “Effects of initialization methods on the performance of multi-objective evolutionary algorithms,” *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Hawaii, USA, 2023 (Accepted). 
+- C. Gong, **L. M. Pang**, Y. Nan, H. Ishibuchi, Q. Zhang, “Effects of initialization methods on the performance of multi-objective evolutionary algorithms,” *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Hawaii, USA, 2023 (Accepted). 
 - H. Ishibuchi, **L. M. Pang**, K. Shang, “Effects of dominance modification on hypervolume-based and IGD-based performance evaluation results of NSGA-II,” in *Proceedings of the Genetic and Evolutionary Computation Conference*, Lisbon, Portugal, 2023, pp. 679-687. 
 - C. Gong, Y. Nan, **L. M. Pang**, Q. Zhang, H. Ishibuchi, “Effects of Including Optimal Solutions into Initial Population on Evolutionary Multiobjective Optimization,” in *Proceedings of the Genetic and Evolutionary Computation Conference*, Lisbon, Portugal, 2023, pp. 661-669. 
 - **L. M. Pang**, Y. Nan, H. Ishibuchi, “Partially degenerate multi-objective test problems,” *12th International Conference on Evolutionary Multi-Criterion Optimization*, Leiden, The Netherlands, 2023, pp. 277-290. 
