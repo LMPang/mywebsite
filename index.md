@@ -20,7 +20,7 @@ My research interests include **Evolutionary Multi-Objective Optimization**, **E
 
 ## Journal Publications 
 - **L. M. Pang**, H. Ishibuchi, L. He, K. Shang, L. Chen, “Hypervolume-based cooperative coevolution with two reference points for multi-objective optimization,” *IEEE Transactions on Evolutionary Computation*, Early Access. <br>
-- **L. M. Pang**, H. Ishibuchi, K. Shang, “Use of two penalty values in multiobjective evolutionary algorithm based on decomposition,” *IEEE Transactions on Cybernetics*, Early Access.<br>
+- **L. M. Pang**, H. Ishibuchi, K. Shang, “Use of two penalty values in multiobjective evolutionary algorithm based on decomposition,” *IEEE Transactions on Cybernetics*, vol. 53, no. 11, pp. 7174 - 7186, 2023.<br>
 - K. Shang, T. Shu, H. Ishibuchi, Y. Nan, **L. M. Pang**, “Benchmarking subset selection from large candidate solution sets in evolutionary multi-objective optimization,” *Information Sciences*, vol. 622, pp.755-770, 2022. <br>
 - **L. M. Pang**, H. Ishibuchi, K. Shang, “Counterintuitive experimental results in evolutionary large-scale multi-objective optimization,” *IEEE Transactions on Evolutionary Computation*, vol. 26, no. 6, pp. 1609-1616, 2022.<br>
 - H. Ishibuchi, **L. M. Pang**, K. Shang, “Difficulties in fair performance comparison of multi-objective evolutionary algorithms [research frontier],” *IEEE Computational Intelligence Magazine*, vol. 17, no.1, pp. 86-101, 2022.<br>
@@ -33,8 +33,11 @@ My research interests include **Evolutionary Multi-Objective Optimization**, **E
 - **L. M. Pang**, K. M. Tay, C. P. Lim, “Monotone fuzzy rule relabeling for the zero-order TSK fuzzy inference system,” *IEEE Transactions on Fuzzy Systems*, vol. 24, no. 6, pp. 1455-1463, 2016.<br>
 
 ## Conference Publications 
-- **L. M. Pang**, Y. Nan, H. Ishibuchi, “How to find a large solution set to cover the entire Pareto front in evolutionary multi-objective optimization,” *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Hawaii, USA, 2023 (Accepted).  
-- C. Gong, **L. M. Pang**, Y. Nan, H. Ishibuchi, Q. Zhang, “Effects of initialization methods on the performance of multi-objective evolutionary algorithms,” *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Hawaii, USA, 2023 (Accepted). 
+- C. Gong, Y. Nan, **L. M. Pang**, H. Ishibuchi, Q. Zhang, "Initial populations with a few heuristic solutions significantly improve evolutionary multi-objective combinatorial optimization," *2023 IEEE Symposium Series on Computational Intelligence (SSCI)*, Mexico City, Mexico, pp. 1398-1405.
+- C. Gong, Y. Nan, **L. M. Pang**, H. Ishibuchi, Q. Zhang, "Examination of the multimodal nature of multi-objective neural architecture search," *2023 IEEE Symposium Series on Computational Intelligence (SSCI)*, Mexico City, Mexico, 2023, pp. 1821-1828.
+- K. Shang, T. Shu, G. Wu, Y. Nan, **L.M. Pang**, H Ishibuchi, "Empirical Hypervolume Optimal µ-Distributions on Complex Pareto Fronts," *2023 IEEE Symposium Series on Computational Intelligence (SSCI)*, Mexico City, Mexico, 2023, pp. 433-440. 
+- **L. M. Pang**, Y. Nan, H. Ishibuchi, “How to find a large solution set to cover the entire Pareto front in evolutionary multi-objective optimization,” *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Hawaii, USA, 2023, pp. 1188-1194.  
+- C. Gong, **L. M. Pang**, Y. Nan, H. Ishibuchi, Q. Zhang, “Effects of initialization methods on the performance of multi-objective evolutionary algorithms,” *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Hawaii, USA, 2023, pp. 1168-1175. 
 - H. Ishibuchi, **L. M. Pang**, K. Shang, “Effects of dominance modification on hypervolume-based and IGD-based performance evaluation results of NSGA-II,” in *Proceedings of the Genetic and Evolutionary Computation Conference*, Lisbon, Portugal, 2023, pp. 679-687. 
 - C. Gong, Y. Nan, **L. M. Pang**, Q. Zhang, H. Ishibuchi, “Effects of Including Optimal Solutions into Initial Population on Evolutionary Multiobjective Optimization,” in *Proceedings of the Genetic and Evolutionary Computation Conference*, Lisbon, Portugal, 2023, pp. 661-669. 
 - **L. M. Pang**, Y. Nan, H. Ishibuchi, “Partially degenerate multi-objective test problems,” *12th International Conference on Evolutionary Multi-Criterion Optimization*, Leiden, The Netherlands, 2023, pp. 277-290. 
